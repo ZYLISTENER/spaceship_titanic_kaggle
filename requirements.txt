@@ -1,0 +1,11 @@
+# 数据处理核心库
+pandas==2.3.3
+numpy==2.3.5
+
+# 机器学习库
+scikit-learn==1.7.2
+lightgbm==4.6.0
+xgboost==3.1.2
+
+# 可视化库
+matplotlib==3.10.7
